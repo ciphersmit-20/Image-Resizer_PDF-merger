@@ -1,9 +1,3 @@
-Awesome! Here's a complete and polished `README.md` tailored for your **Streamlit Image Resizer & PDF Merger** project:
-
----
-
-### 📄 `README.md` (Copy this into a file named `README.md` in your project root)
-
 ````markdown
 # 📦 PDF & Image Tool
 
@@ -46,7 +40,7 @@ Everything runs locally in your browser — no uploads to external servers!
 ```bash
 git clone https://github.com/ciphersmit-20/Image-Resizer_PDF-merger.git
 cd Image-Resizer_PDF-merger
-````
+
 
 ### 2️⃣ Create and activate a virtual environment (optional but recommended)
 
